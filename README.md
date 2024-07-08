@@ -1,0 +1,1 @@
+🌟 Just wrapped up my second task as a Web Development Intern at Bharat Intern! 💻🎉 Created a Homepage of netflix using HTML, CSS and JavaScript. Excited for what's next on this coding journey! #WebDev #InternLife 🚀
